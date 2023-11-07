@@ -1,0 +1,7 @@
+{
+	"coc.preferences.formatOnSave": true,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+	"rust-analyzer.server.path": "/bin/rust-analyzer",
+	"rust-analyzer.check.allTargets": false
+}
