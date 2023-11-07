@@ -1,7 +1,7 @@
 *
 !.gitignore
-!./fish/
-!./nvim/
-!./kitty/
-!./hypr/
-!./waybar/
+!fish/*
+!nvim/*
+!kitty/*
+!hypr/*
+!waybar/*
