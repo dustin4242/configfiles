@@ -1,0 +1,6 @@
+{
+	"coc.preferences.formatOnSave": true,
+	"coc.source.OmniSharp.enable": true,
+	"coc.source.OmniSharp.triggerCharacters": ".",
+	"semanticTokens.enable": true
+}
